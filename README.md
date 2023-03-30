@@ -1,3 +1,5 @@
+<h1>Computação Gráfica - 2023</h1>
+<br />
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/XLucasHoffmannX/computacao-grafica?color=%2304D361">
 
