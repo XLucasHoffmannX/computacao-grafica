@@ -1,4 +1,4 @@
-## Ativade 1
+## Atividade 1
 <p align="center">
     <img src="./image.png" width="480">
 </p>
